@@ -30,7 +30,7 @@ class SearchBar extends Component {
         <div className="container-fluid">
           <div className="container">
             <div className="navbar-header">
-              <a className="github-fork-ribbon" href="https://github.com/StephenGrider" title="Fork me on GitHub">Fork me on GitHub</a>
+              <a className="github-fork-ribbon" href="https://github.com/swallville/React-ReduxExample" title="Fork me on GitHub">Fork me on GitHub</a>
               <a className="navbar-brand" href="http://openweathermap.org">
                 <img src="https://pbs.twimg.com/profile_images/720298646630084608/wb7LSoAc.jpg"
                 width="50" height="50" title="Course's github" className="d-inline-block align-top" alt="Home"/>
